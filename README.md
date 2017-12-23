@@ -1,0 +1,2 @@
+# minilibstudent_20171223
+该项目为小型图书资料管理系统，仅实现了QueryBook和AddBook功能，后续更新。
